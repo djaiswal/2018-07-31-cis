@@ -4,3 +4,7 @@ here is python script
 def dollars2cents(dollars):
 	cents = dollars * 100
 	return cents
+
+new edit by deepak
+
+
